@@ -1,0 +1,15 @@
+﻿#EXTM3U
+
+
+#EXTINF:-1,US: ABC HD Atlanta
+http://23.237.22.72:25461/live/19838.ts
+#EXTINF:-1,US: CBS HD Atlanta
+http://23.237.22.72:25461/live/admin/admin/19882.ts
+#EXTINF:-1,US: FOX HD Atlanta
+http://23.237.22.72:25461/live/4dm1n/4dm1n/11762.ts
+#EXTINF:-1,US: ABC HD Atlanta
+http://23.237.22.72:25461/live/AureG10/l4w1eDE4s9/19838.ts
+#EXTINF:-1,US: FOX HD Atlanta
+http://23.237.22.72:25461/live///11762.ts
+#EXTINF:-1,US: FOX HD Atlanta
+http://23.237.22.72:25461/live/NITRO/FREE/11762.ts
